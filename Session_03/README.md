@@ -11,4 +11,4 @@ Turn on and/or blink an LED
 
 ## Images
 
-<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_01/IMG/LED_BLink_Code.png">
+<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_03/IMG/img.jpg">
