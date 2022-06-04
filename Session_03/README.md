@@ -16,4 +16,4 @@ This Project is based IS BASED on THE ALARMS AND BEEPS USING BUZZERS FOR SECURIT
 
 ## Images
 
-<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_01/IMG/LED_BLink_Code.png">
+<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_03/IMG/img.jpg">
