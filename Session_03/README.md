@@ -1,10 +1,15 @@
 # ABOUT THIS PROJECT
 
-Turn on and/or blink an LED
+This Project is based IS BASED on THE ALARMS AND BEEPS USING BUZZERS FOR SECURITY
+
+### Functions
+
+- tone()
+- noTone()
 
 ## COMPONENTS AND SUPPLIES
 
-- LED (generic)
+- Buzzer
 - Arduino UNO (Can Use any arduino board)
 - Jumper Wires (generic)
 - Resistor 220ohm
