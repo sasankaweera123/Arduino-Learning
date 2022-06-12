@@ -9,10 +9,10 @@ This Project is based IS BASED on THE ALARMS AND BEEPS USING BUZZERS FOR SECURIT
 
 ## COMPONENTS AND SUPPLIES
 
-- Buzzer
+- Buzzer (active/passive)
 - Arduino UNO (Can Use any arduino board)
 - Jumper Wires (generic)
-- Resistor 220ohm
+- Resistor 100ohm (optional)
 
 ## Images
 
