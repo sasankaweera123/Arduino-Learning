@@ -19,4 +19,4 @@ Sweeps the shaft of a RC servo motor back and forth across 180 degrees.
 
 ## Images
 
-<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_06/IMG/img.png">
+<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_07/IMG/img.png">
