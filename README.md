@@ -2,6 +2,7 @@
 
 Arduino is an open-source hardware and software company, project, and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
 
+
 ## Sessions 
 
 - [Session 01](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_01) : Turn on and/or blink an LED
@@ -12,9 +13,10 @@ Arduino is an open-source hardware and software company, project, and user commu
 - [Session 06](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_06) : IR Motion Sensor Module
 - [Session 07](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_07) : Servo Motor
 - [Session 08](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_08) : Ultrasonic Sensor HC-SR04
+- [Session 09](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_09) : PIR Motion Sensor
 
 
-## Usefull links
+## Useful links
 
 - [Arduino](https://www.arduino.cc/)
 - [Arduino Documentation](https://docs.arduino.cc/)
