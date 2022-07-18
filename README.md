@@ -11,6 +11,7 @@ Arduino is an open-source hardware and software company, project, and user commu
 - [Session 05](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_05) : LDR
 - [Session 06](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_06) : IR Motion Sensor Module
 - [Session 07](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_07) : Servo Motor
+- [Session 08](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_08) : Ultrasonic Sensor HC-SR04
 
 
 ## Usefull links
