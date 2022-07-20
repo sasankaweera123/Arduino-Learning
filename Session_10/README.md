@@ -18,4 +18,4 @@ Connecting a relay with arduino and as an example blinking a bulb
 
 ## Images
 
-<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_09/IMG/img.jpg">
+<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_10/IMG/img.jpg">
