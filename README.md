@@ -14,7 +14,8 @@ Arduino is an open-source hardware and software company, project, and user commu
 - [Session 07](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_07) : Servo Motor
 - [Session 08](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_08) : Ultrasonic Sensor HC-SR04
 - [Session 09](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_09) : PIR Motion Sensor
-
+- [Session 10](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_10) : Relay
+- [Session 11](https://github.com/sasankaweera123/Arduino-Learning/tree/main/Session_11) : L298N Motor Driver
 
 ## Useful links
 
