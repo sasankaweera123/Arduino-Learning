@@ -18,4 +18,4 @@ Use the L298N Motor Controller with DC motors
 
 ## Images
 
-<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_11/IMG/img.jpg">
+<img width="500px" src="https://github.com/sasankaweera123/Arduino-Learning/blob/main/Session_11/IMG/img.png">
