@@ -1,4 +1,4 @@
-#define LED  5 // The pin the LED is connected to 5 
+#define LED  13 // The pin the LED is connected to 5 
 // for analogwrite we need to use 1-6 pin to get expexted outcomes
 
 // Can use int LED = 5 also
